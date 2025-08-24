@@ -6,5 +6,6 @@ Technologies:
          Libraries: OpenCV, TensorFlow
          PS Category – software 
 
-<img width="880" height="416" alt="image" src="https://github.com/user-attachments/assets/39d111ae-c403-44b1-a154-0b859abcfd7e" />
+<img width="541" height="358" alt="image" src="https://github.com/user-attachments/assets/0a4a9b4e-7d1d-4583-b868-b2f5f52f2559" />
+
 
